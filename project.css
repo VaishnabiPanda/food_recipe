@@ -1,0 +1,124 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/flat-lay-meat-vegetables-dish_23-2148725048.jpg?semt=ais_items_boosted&w=740 );
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+
+#frontpg{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    color: black;
+    
+    
+}
+
+#quote{
+    font-size: larger;
+    font-style: inherit;
+    font-family:fantasy;
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    font-style: oblique;
+}
+
+#description{
+    font-family: cursive;
+    text-align: center;
+    font-size: large;
+    
+}
+#statefoods{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:20px;
+    padding:20px;
+
+}
+#box1{
+    
+    width:100px;
+    height:100px;
+    text-align: center;
+
+    
+    
+
+}
+#box2{
+    
+    width:100px;
+    height:100px;
+    text-align: center;
+   
+    
+}
+#box3{
+   
+    width:100px;
+    height:100px;
+    text-align: center;
+    
+}
+#box4{
+    
+    width:100px;
+    height:100px;
+    text-align: center;
+    
+}
+#box5{
+    
+    width:100px;
+    height:100px;
+    text-align: center;
+    
+}
+#box6{
+    
+    width:100px;
+    height:100px;
+    text-align: center;
+   
+}
+#box7{
+    width:100px;
+    height:100px;
+    text-align: center;
+}
+
+#box8{
+    width:100px;
+    height:100px;
+    text-align: center;
+}
+
+#contactus{
+    background-color: antiquewhite;
+    text-align: center;
+}
+.box-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;       /* Ensures image fills the box nicely */
+  border-radius: 5px;     /* Matches box border radius */
+  transition: transform 0.2s;
+}
+
+.box-image:hover {
+  transform: scale(1.15); }
+   /* Slight zoom on hover */
+
+
+   #odishafood{
+background-color: black;
+
+   }
+    
